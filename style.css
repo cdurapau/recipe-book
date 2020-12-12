@@ -1,0 +1,39 @@
+body {
+	background: linear-gradient(to right, rgb(163, 5, 150), rgb(3, 133, 165));
+	font: 1.1em "Lucida Sans", monospace, sans-serif;
+	padding: 4em;
+}
+header {
+	font: 2.5em "Lucida Sans", monospace, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	border: solid black 4px;
+	border-radius: 15px;
+	background-color: white;
+	padding: .3em;
+	margin-bottom: 1em
+}
+.recipe{
+	border: solid black 4px;
+	border-radius: 15px;
+	background-color: white;
+	padding: 1em;
+}
+.recipe:after{
+	clear:float;
+}
+.ingredients {
+	float: right;
+	padding: 1em;
+	border: dotted black 4px;
+	border-radius: 15px;
+	margin: .5em;
+	background-color: white;
+}
+.noTopMargin {
+	margin-top: 0;
+}
+.centered {
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
