@@ -2,6 +2,8 @@ body {
 	background: linear-gradient(to right, rgb(163, 5, 150), rgb(3, 133, 165));
 	font: 1.1em "Lucida Sans", monospace, sans-serif;
 	padding: 4em;
+	margin: auto;
+	max-width: 960px
 }
 header {
 	font: 2.5em "Lucida Sans", monospace, sans-serif;
