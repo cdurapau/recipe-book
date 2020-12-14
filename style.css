@@ -21,19 +21,23 @@ header {
 	background-color: white;
 	padding: 1em;
 }
-.recipe:after{
-	clear:float;
-}
-.ingredients {
+.ingredients, .tips {
 	float: right;
 	padding: 1em;
 	border: dotted black 4px;
 	border-radius: 15px;
 	margin: .5em;
-	background-color: white;
+	background-color: #C4C4C4;
+}
+.tips {
+	font-size: .75em;
+	padding: .85em;
 }
 .noTopMargin {
 	margin-top: 0;
+}
+.noBottomMargin {
+	margin-bottom: .15em;
 }
 .centered {
 	display: grid;
