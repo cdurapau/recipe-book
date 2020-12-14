@@ -32,6 +32,7 @@ header {
 .tips {
 	font-size: .75em;
 	padding: .85em;
+	border: dashed black 1px;
 }
 .noTopMargin {
 	margin-top: 0;
