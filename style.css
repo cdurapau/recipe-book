@@ -34,6 +34,9 @@ header {
 	padding: .85em;
 	border: dashed black 1px;
 }
+.centered {
+	text-align: center;
+}
 .noTopMargin {
 	margin-top: 0;
 }
