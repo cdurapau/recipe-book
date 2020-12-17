@@ -22,7 +22,6 @@ body {
 	padding: 1em;
 }
 .ingredients, .tips {
-	float: right;
 	padding: 1em;
 	border: dotted black 4px;
 	border-radius: 15px;
@@ -31,6 +30,7 @@ body {
 }
 .ingredients {
 	max-width: 30%;
+	float: right;
 }
 .tips {
 	font-size: .75em;
