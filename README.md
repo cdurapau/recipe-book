@@ -1,6 +1,8 @@
-# Recipe Book
+# [Recipe Book]
 
-As practice, I intend to create a website with recipes from my recipe binder.
+As practice, I intend to create a small website with recipes from my recipe binder.
+
+See a preview here: **[Recipe Book]**
 
 ## Goals
 
@@ -8,3 +10,5 @@ As practice, I intend to create a website with recipes from my recipe binder.
 - Make the pages responsive and look good on all devices.
 - Make sure that printed pages render correctly and look good.
 - Add a page to add pages or edit already existing pages.
+
+[Recipe Book]: home.html
